@@ -1,4 +1,4 @@
-# Demos:
+# Demo:
 
 Typically, the demo below is presented by the lab instructors during the first
 lab. The demo has two major goals. The first goal is to showcase debugging using
@@ -22,7 +22,7 @@ green "play" button to run a test case.
 
 # Labs:
 
-[Lab demo: Rotation](https://github.com/IUDataStructuresCourse/lab-demo-rotation)
+<!-- [Lab demo: Rotation](https://github.com/IUDataStructuresCourse/lab-demo-rotation) -->
 
 [Quicksort](https://github.com/IUDataStructuresCourse/quick-sort-student-support-code)
 
