@@ -1,6 +1,16 @@
-# Support Code Index
+# Support Code and Demo Index
 
+## Demos:
 
+Typically, the demo below is presented by the lab instructors during the first
+lab. The demo has two major goals. The first goal is to showcase debugging using
+the built-in debugger GUI of IntelliJ. The second goal is to introduce the
+students to (property-based) testing, specifically, defining properties and
+writing randomized tests in `StudentTest.java`. The instructors should also
+familiarize the students with the GUI of IntelliJ. For example, we can use the
+green "play" button to run a test case.
+
+[Testing and Debugging](https://github.com/IUDataStructuresCourse/lab-demo-rotation)
 
 ## Projects:
 
