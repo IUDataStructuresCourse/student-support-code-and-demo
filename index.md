@@ -1,6 +1,4 @@
-# Support Code and Demo Index
-
-## Demos:
+# Demos:
 
 Typically, the demo below is presented by the lab instructors during the first
 lab. The demo has two major goals. The first goal is to showcase debugging using
@@ -12,7 +10,7 @@ green "play" button to run a test case.
 
 [Testing and Debugging](https://github.com/IUDataStructuresCourse/lab-demo-rotation)
 
-## Projects:
+# Projects:
 
 [Flood It!](https://github.com/IUDataStructuresCourse/flood-it-student-support-code)
 
@@ -22,7 +20,7 @@ green "play" button to run a test case.
 
 
 
-## Labs: 
+# Labs:
 
 [Lab demo: Rotation](https://github.com/IUDataStructuresCourse/lab-demo-rotation)
 
